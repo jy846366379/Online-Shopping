@@ -1,2 +1,2 @@
-# APEX
-a personalized job search and recommendation web service
+# Vintage+
+A Spring and Hibernate based shopping and ordering system
